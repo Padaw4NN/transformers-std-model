@@ -97,7 +97,7 @@ uv pip install -r requirements.txt
 - **matplotlib** & **seaborn**: Visualização de dados
 - **scikit-learn**: Métricas de avaliação
 
-## 🚀 Executando o Projeto
+## Executando o Projeto
 
 1. Ative o ambiente virtual:
 ```bash
